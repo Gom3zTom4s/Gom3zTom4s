@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
 
-<!--
-**Gom3zTom4s/Gom3zTom4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Gomez Tomas<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate student of cybersecurity and networks from Mendoza.</h3>
 
-Here are some ideas to get you started:
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Security+Analyst+Student;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+```
+I-am-Gom3zTom4s
+-------------------------
+💻 I am a self-taught cybersecurity and networking student.
+📚 I am currently studying a technical degree in Computing and Networks at Manuel Belgrano University.
+📝 I have a strong interest in Cybersecurity and networks and telecomunications.
+🔭 Looking for a job opportunity.
+🌱 learning about security in systems and network systems and how to violate them
+🌟 Main languages: C++, Python, Bash, SQL
+🚩 Interested in the defense and vulnerability of computer systems
+💖 In a complicated relationship with Windows
+🎵 Love rock, lofi, jazz and soft music
+```
+<hr>
