@@ -14,35 +14,39 @@
 
 <img align="left" src="https://i.pinimg.com/736x/e8/13/0a/e8130a43dd387deddadf88de88af40aa.jpg" width="320" />
 
-<hr>
+<div style="margin-left: 340px;">
+  <hr>
 
-```
-I-am-Gom3zTom4s
--------------------------
-💻 I am a self-taught cybersecurity and networking student.
-📚 I am currently studying a technical degree in Computing and Networks at Manuel Belgrano University.
-📝 I have a strong interest in Cybersecurity and networks and telecomunications.
-🔭 Looking for a job opportunity.
-🌱 learning about security in systems and network systems and how to violate them
-🌟 Main languages: C++, Python, Bash, SQL
-🚩 Interested in the defense and vulnerability of computer systems
-💖 In a complicated relationship with Windows
-🎵 Love rock, lofi, jazz and soft music
-```
+  ```
+  I-am-Gom3zTom4s
+  -------------------------
+  💻 I am a self-taught cybersecurity and networking student.
+  📚 I am currently studying a technical degree in Computing and Networks at Manuel Belgrano University.
+  📝 I have a strong interest in Cybersecurity and networks and telecomunications.
+  🔭 Looking for a job opportunity.
+  🌱 learning about security in systems and network systems and how to violate them
+  🌟 Main languages: C++, Python, Bash, SQL
+  🚩 Interested in the defense and vulnerability of computer systems
+  💖 In a complicated relationship with Windows
+  🎵 Love rock, lofi, jazz and soft music
+  ```
 
-<hr>
+  <hr>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b/>Skills</b>
+<div style="text-align: left;">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"><b/>Skills</b>
 
-<p align="left">
+  <p align="left">
 
-- **Languages**:
+  - **Languages**:
 
-    [![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,&theme=dark)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,&theme=dark)](https://skillicons.dev)
 
-- **Softwares and Tools**:
+  - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,arch,docker,git,github,kali,mysql,sqlite,postgres,powershell,vscode,&theme=dark)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,arch,docker,git,github,kali,mysql,sqlite,postgres,powershell,vscode,&theme=dark)](https://skillicons.dev)
 
-<br>
-</p>
+  <br>
+  </p>
+</div>
