@@ -6,11 +6,17 @@
 <h3 font-size="20" align="center">A passionate student of cybersecurity and networks from Mendoza.</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Security+Analyst+Student;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Security+Analyst+Student;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+  </a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<div style="text-align: center;">
+  <img align="left" src="https://i.pinimg.com/736x/e8/13/0a/e8130a43dd387deddadf88de88af40aa.jpg" width="320" />
+</div>
+
 <hr>
 
 ```
@@ -33,12 +39,12 @@ I-am-Gom3zTom4s
 <p align="center">
 
 - **Languages**:
-    
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+
+    [![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,&theme=dark)](https://skillicons.dev)
 
 - **Softwares and Tools**:
 
-     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
+    [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,arch,docker,git,github,kali,mysql,sqlite,postgres,powershell,vscode,&theme=dark)](https://skillicons.dev)
     
 <br>
 </p>
