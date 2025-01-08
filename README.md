@@ -6,14 +6,13 @@
 <h3 font-size="20" align="center">A passionate student of cybersecurity and networks from Mendoza.</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Security+Analyst+Student;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
   </a>
 </p>
 
-  <img align="left" src="https://i.pinimg.com/736x/e8/13/0a/e8130a43dd387deddadf88de88af40aa.jpg" width="320" />
+<img align="left" src="https://i.pinimg.com/736x/e8/13/0a/e8130a43dd387deddadf88de88af40aa.jpg" width="320" />
 
 <hr>
 
@@ -30,6 +29,7 @@ I-am-Gom3zTom4s
 💖 In a complicated relationship with Windows
 🎵 Love rock, lofi, jazz and soft music
 ```
+
 <hr>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b/>Skills</b>
@@ -43,6 +43,6 @@ I-am-Gom3zTom4s
 - **Softwares and Tools**:
 
     [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,arch,docker,git,github,kali,mysql,sqlite,postgres,powershell,vscode,&theme=dark)](https://skillicons.dev)
-    
+
 <br>
 </p>
