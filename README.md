@@ -13,9 +13,7 @@
   </a>
 </p>
 
-<div style="text-align: center;">
   <img align="left" src="https://i.pinimg.com/736x/e8/13/0a/e8130a43dd387deddadf88de88af40aa.jpg" width="320" />
-</div>
 
 <hr>
 
