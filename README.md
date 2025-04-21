@@ -45,7 +45,7 @@
 
   - **Softwares and Tools**:
 
-      [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,arch,docker,git,github,kali,mysql,sqlite,postgres,powershell,vscode,&theme=dark)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,arch,docker,git,github,kali,mysql,sqlite,postgres,powershell,vscode,vim,&theme=dark)](https://skillicons.dev)
 
   <br>
   </p>
